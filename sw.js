@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ictt-schedule-v1';
+const CACHE_NAME = 'ictt-schedule-v2';
 const ASSETS = [
     './index.html',
     './manifest.json',
