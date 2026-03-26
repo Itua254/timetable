@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ictt-schedule-v2';
+const CACHE_NAME = 'bnp-exam-v3';
 const ASSETS = [
     './index.html',
     './manifest.json',

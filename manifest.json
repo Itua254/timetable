@@ -1,11 +1,11 @@
 {
-  "name": "ICTT Schedule",
-  "short_name": "ICTT",
+  "name": "BNP Exam Master Timetable",
+  "short_name": "BNP Exam",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "description": "Offline-capable schedule for ICTT/L6/26J",
+  "description": "Offline-capable BNP exam master timetable",
   "icons": [
     {
       "src": "icon.svg",
